@@ -1,5 +1,5 @@
 - Hi, I’m @mmeeg
 - I post minecraft related projects here
 - Youll never find my actual github >:3
-- I'm going to school for cybersecurity 
+- Aspiring Pen Tester for CyberSecurity 
 - Best way to reach me is my discord meeg#1060
